@@ -7,7 +7,7 @@ I am going to share possibly an unusual way of hunting for hidden Windows 10 sch
 
 ![image](https://github.com/wit0k/tarrask/blob/main/task_in_memory.jpg)
 
-Feel free to look at my quick research [#Tarrask - Deep dive - Hidden Scheduled Task]([https://duckduckgo.com](https://github.com/wit0k/tarrask/blob/main/Tarrask_Persistence_Deep_Dive.pdf)), it consist of following topics:
+Feel free to look at my quick research [#Tarrask - Deep dive - Hidden Scheduled Task](https://github.com/wit0k/tarrask/blob/main/Tarrask_Persistence_Deep_Dive.pdf), it consist of following topics:
 
 * Scheduled Task Artifacts
 * Hiding Scheduled Task
